@@ -41,8 +41,6 @@ void main(void) {
     while(1){
         ws2812b_demo();
     }
-    
-    return;
 }
 void ws2812b_init(void){
     //ピン設定
