@@ -11,7 +11,11 @@ PIC16F183xxシリーズでコンパイル通りますが実機での確認はし
 # 使い方
 ## 回路図
 PIC16F18313の場合  
-PIC16F18326の場合
+![8ピン回路図](https://github.com/yuzuhara0597/WS2812B_PIC16F18313/blob/master/PIC16F18313.png)  
+  
+  
+PIC16F18326の場合  
+![14ピン回路図](https://github.com/yuzuhara0597/WS2812B_PIC16F18313/blob/master/PIC16F18326.png)  
 
 マイコンにはPICkit等を通してプログラムを書き込んでください。 CファイルとHEXファイルを用意しています  
 ## ※注意
