@@ -1,5 +1,6 @@
 # WS2812B_PIC16F18313
 NeoPixel WS2812BをPIC16F18313で制御するプログラムです
+開発環境はMPLAB X IDE v5.15およびXC8 v2.05です
 
 # 対応マイコン
 基本:PIC16F18313  
